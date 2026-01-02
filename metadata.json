@@ -1,0 +1,9 @@
+{
+  "name": "OmniStream CFW: Neural Edition",
+  "description": "The world's most advanced Flipper Zero firmware interface. Powered by Gemini for real-time signal intelligence, automated Duckyscripting, and spectral analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
